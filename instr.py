@@ -3,7 +3,7 @@
 from PyQt5.QtCore import QTime
 
 win_x, win_y = 200, 100
-win_width, win_height = 1000, 600
+win_width, win_height = 1000, 700
 
 txt_hello = 'Добро пожаловать в программу по определению состояния здоровья!'
 txt_next = 'Начать'
